@@ -245,3 +245,7 @@ body
   justify-content: center;
   align-items: center;
 }
+.genre-link.active {
+    border: 2px solid #007bff;
+    border-radius: 8px;
+}
